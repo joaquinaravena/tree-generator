@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"Exceptions"},{"l":"Principal"},{"l":"TDAArbol"},{"l":"TDACola"},{"l":"TDADiccionario"},{"l":"TDALista"},{"l":"TDAPila"}];updateSearchResults();
